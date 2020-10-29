@@ -22,5 +22,6 @@ S.No | Date | Topic | Filename
 5 | 9 October 2020 | Spacy - NER | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/9th%20oct.ipynb">9th oct.ipynb</a>
 6 | 16 October 2020 | Chunking | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/16%20oct.ipynb">16 oct.ipynb<a/>
 7 | 30 August 2020 | Theory Digital Assignment Work | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/NLP_DA_hands_on.ipynb">NLP_DA_hands_on.ipynb</a>
+8 | 26 September 2020 | Nat Geo Group Activity | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/Editor_In_Chief_Recuritment.ipynb">Editor_In_Chief_Recuritment.ipynb</a>
 
 <br>

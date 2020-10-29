@@ -12,7 +12,7 @@
 
 <br>
 
-## Hands on Session
+## Table of contents
 S.No | Date | Topic | Filename
 -----|-----|----- | ----
 1 | 17 July 2020 | Brown, Inaugural Corpus and Frequency Distributions | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/Lab1.ipynb">Lab1.ipynb</a>

@@ -23,5 +23,7 @@ S.No | Date | Topic | Filename
 6 | 16 October 2020 | Chunking | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/16%20oct.ipynb">16 oct.ipynb<a/>
 7 | 30 August 2020 | Theory Digital Assignment Work | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/NLP_DA_hands_on.ipynb">NLP_DA_hands_on.ipynb</a>
 8 | 26 September 2020 | Nat Geo Group Activity | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/Editor_In_Chief_Recuritment.ipynb">Editor_In_Chief_Recuritment.ipynb</a>
+  9 | 3 September 2020 | FSA Rupees Paise | <a href="">FSA-Rupee.pdf</a>
+  10 | August 2020 | FSA for Hindi Adjectives (Mother Tongue) | <a href="https://github.com/naynikaw/Natural-Language-Processing-Fall-2020/blob/master/FSA-Hindi%20adjectives.pdf">FSA-Hindi adjectives.pdf</a>
 
 <br>
